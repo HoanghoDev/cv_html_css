@@ -3,7 +3,7 @@
 
 
 
-![IMAGE](project.jpg)
+![IMAGE](project.png)
 
 
 - [Watch the video for detailed instructions](https://www.youtube.com/@lundeveloper)
